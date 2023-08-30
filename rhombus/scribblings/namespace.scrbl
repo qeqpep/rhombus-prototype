@@ -82,7 +82,7 @@ existing namespace or by nesting @rhombus(namespace) forms.
 )
 
 A @rhombus(., ~impo) can be used in an @rhombus(import) form as a shorthand to
-reach a nested binding without making intemediate bindings visible.
+reach a nested binding without making intermediate bindings visible.
 
 @demo(
   ~eval: ns_eval
