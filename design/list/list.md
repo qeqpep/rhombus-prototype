@@ -11,7 +11,7 @@ Lists come in many flavors, with many different performance characteristics. For
 Out of scope
 ------------
 
-This design document focuses solely on immutable lists, and leaves open the design of mutable lists as well as other collections. Discussion on these topics can be found in #201 and #221.
+This design document focuses solely on immutable lists, and leaves open the design of mutable lists as well as other collections. Discussion on these topics can be found in [#201](https://github.com/racket/rhombus-prototype/discussions/201) and [#221](https://github.com/racket/rhombus-prototype/discussions/221).
 
 Summary
 -------
